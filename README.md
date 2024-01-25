@@ -1,3 +1,3 @@
 # Cineconduct
 
-Just test
+Ticketing software for cinemas.
